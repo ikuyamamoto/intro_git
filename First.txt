@@ -1,3 +1,5 @@
 Gitの練習をはじめます。
 基本的なワークフローを学びます。
 Change UTF8
+git add
+git commit
